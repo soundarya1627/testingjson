@@ -1,0 +1,13 @@
+[
+    {
+        "endpoint": "api/register/preprod",
+        "email": "ragava@reqres.in",
+        "password": 123
+    }
+,
+    {
+        "endpoint": "api/register/preprod",
+        "email": "raju@reqres.in",
+        "password": 456
+    }
+]
